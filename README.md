@@ -189,24 +189,6 @@ known_actions = {
 
 ---
 
-## ⚠️ Important Notes
-
-- Never share or upload your `.env` file to GitHub
-- Make sure `.env` is listed in your `.gitignore` file
-- The app runs on `http://localhost:8080` by default
-
----
-
-## 📄 .gitignore
-
-Make sure your `.gitignore` file contains:
-
-```
-.env
-__pycache__/
-*.pyc
-```
-
 ---
 
 ## 🆓 Cost
@@ -217,7 +199,7 @@ This project is **completely free** to run using the Groq free tier. No credit c
 
 ## 👨‍💻 Author
 
-Built with Python and Groq by **Eng Eslam**
+Built with Python and Groq by **Eng MOhammed abdallah owais**
 
 ---
 
