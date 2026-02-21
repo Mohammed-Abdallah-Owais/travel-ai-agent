@@ -199,7 +199,7 @@ This project is **completely free** to run using the Groq free tier. No credit c
 
 ## 👨‍💻 Author
 
-Built with Python and Groq by **Eng MOhammed abdallah owais**
+Built with Python and Groq by **Eng Mohammed Abdallah Owais**
 
 ---
 
