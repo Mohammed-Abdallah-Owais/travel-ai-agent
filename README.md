@@ -179,17 +179,7 @@ known_actions = {
 }
 ```
 
----
 
-## 🔑 Environment Variables
-
-| Variable | Description |
-|----------|-------------|
-| `GROQ_API_KEY` | Your free Groq API key |
-
----
-
----
 
 ## 🆓 Cost
 
